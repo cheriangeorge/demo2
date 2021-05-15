@@ -92,7 +92,7 @@ for user in unique_list[start:]:
 # 	lt=(f'{user_dict}')
 	# dt=(f'dic = {user_dict}')
 	print(count , unique_list[count])
-	if(count % 500 == 499):
+	if(count % 300 == 299):
 		print(all_user_data)
 		all_user_data = []
 		
